@@ -1,0 +1,53 @@
+#menu {
+	background: #d5ebf7;
+}
+
+.btn-outline-success {
+	background: #428bca;
+	color: #fff;
+	font-weight: 600;
+	border-radius: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #000;
+}
+
+.navbar-header {
+	background: #d5ebf7;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar {
+	border: none;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.watch-video {
+    margin: 0 auto;
+}
+
+.videos-section {
+    max-width: 810px;
+    margin: 20px auto 0;
+}
+
+.top_head {
+    padding: 0 10px 15px;
+    position: relative;
+}
+
+.video-box {
+    position: relative;
+    display: inline-block;
+}
+
+.footer-section {
+	padding: 50px;
+}
